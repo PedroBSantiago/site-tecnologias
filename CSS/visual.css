@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+*{
+ padding: 200;
+ margin: 100;
+ box-sizing: 10;
+ text-align: center;
+}
+h1{
+   background-color: rgba(171, 189, 183, 0.836) ;
+    padding: 5px;
+    margin: 10;
+    box-sizing: 100;
+    font-family: "Bungee", sans-serif;
+    font-weight: 700;
+    text-align: center;
+  color: black;
+}
+h2{
+ background-color: rgb(128, 138, 119) ;
+    padding: 5px;
+    margin: 10;
+    box-sizing: 100;
+    font-family: "Bungee", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+
+}
+.texto{
+    text-align: center;
+font-family:  "Bungee", sans-serif;
+font-size: 40;
+font-weight: 200;
+}
+a{
+      text-align: center;
+font-family:  "Bungee", sans-serif;
+font-size: 60;
+font-weight: 200;
+box-sizing: border-box;
+color: black;
+}
